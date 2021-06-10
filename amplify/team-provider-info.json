@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-poketrade-dev-90727-authRole",
+      "UnauthRoleArn": "arn:aws:iam::902296876280:role/amplify-poketrade-dev-90727-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::902296876280:role/amplify-poketrade-dev-90727-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-poketrade-dev-90727-deployment",
+      "UnauthRoleName": "amplify-poketrade-dev-90727-unauthRole",
+      "StackName": "amplify-poketrade-dev-90727",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:902296876280:stack/amplify-poketrade-dev-90727/4cdfc6d0-c9cb-11eb-a963-066f0c73a27f",
+      "AmplifyAppId": "dcyg4nwtdeb0b"
+    },
+    "categories": {
+      "auth": {
+        "poketrade1e60c908": {}
+      }
+    }
+  }
+}
